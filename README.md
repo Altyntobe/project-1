@@ -14,7 +14,11 @@
 
 ---
 
+<<<<<<< HEAD
 ## Жылдам орнату (Windows)1
+=======
+## Жылдам орнату (Windows)
+>>>>>>> 5e89d17b05dfba720f19582d7daf95eb20acbd3a
 
 ```powershell
 .\setup.ps1
